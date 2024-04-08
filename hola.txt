@@ -1,3 +1,8 @@
 Hola soyb romaim, archivo prueba
 
+<<<<<<< HEAD
 Esta es la rama Prueba
+=======
+
+Hola este es la rama Prueba
+>>>>>>> prueba
